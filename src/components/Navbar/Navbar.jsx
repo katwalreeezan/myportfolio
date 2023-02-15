@@ -32,7 +32,7 @@ const navbar = () => {
             
             <li>
               <Link to="testimonial" spy={true} smooth={true}>
-                Testimonial
+                Review
               </Link>
             </li>
           </ul>
